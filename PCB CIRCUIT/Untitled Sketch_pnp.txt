@@ -1,0 +1,106 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Untitled Sketch
+*Date=23:31:38
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;220;THT;9.02595;-14.1481;90;Bottom;R4
+2;;300 mil [THT];7.73055;-25.5781;0;Bottom;D4
+3;;;31.886;-49.2847;0;Bottom;Hole13
+4;;THT;38.236;-39.5481;90;Bottom;DRIVER2
+5;;300 mil [THT];7.73055;-72.521;0;Bottom;D2
+6;;;47.126;-49.2847;0;Bottom;Hole19
+7;;;81.0815;-89.3735;0;Bottom;TXT5
+8;;;49.666;-49.2847;0;Bottom;Hole21
+9;;;19.186;-49.2847;0;Bottom;Hole8
+10;;300 mil [THT];7.73055;-21.721;0;Bottom;D3
+11;;;89.2036;-42.085;-90;Bottom;ESP
+12;;;3.94595;-49.2847;0;Bottom;Hole2
+13;;THT;26.759;-57.0741;-90;Bottom;OUT3
+14;;;24.266;-49.2847;0;Bottom;Hole10
+15;12V;THT;76.526;-73.8381;180;Bottom;RELAY1
+16;1.25 – 36 V;to220-adj;9.02595;-4.94055;180;Bottom;LM317
+17;;THT;81.416;-35.7381;90;Bottom;S
+18;12V;THT;25.726;-73.8381;180;Bottom;RELAY3
+19;;THT;81.416;-86.5381;90;Bottom;S
+20;;;81.0815;-38.5735;0;Bottom;TXT5
+21;;;64.906;-49.2847;0;Bottom;Hole26
+22;;;19.186;-85.0564;0;Bottom;TXT7
+23;;THT;52.1588;-6.27411;-90;Bottom;OUT2
+24;;;78.5737;-88.9629;0;Bottom;TXT4
+25;12V;THT;51.1259;-23.038;180;Bottom;RELAY2
+26;;;92.846;-49.2847;0;Bottom;Hole35
+27;;;69.986;-49.2847;0;Bottom;Hole28
+28;;;59.826;-49.2847;0;Bottom;Hole24
+29;;THT;52.159;-57.0741;-90;Bottom;OUT2
+30;;;82.686;-49.2847;0;Bottom;Hole32
+31;220;THT;9.02595;-64.9481;90;Bottom;R1
+32;;THT;66.176;-39.5481;90;Bottom;DRIVER1
+33;;;29.346;-49.2847;0;Bottom;Hole12
+34;;THT;10.042;-94.325;0;Bottom;IN
+35;;;67.446;-49.2847;0;Bottom;Hole27
+36;;THT;3.94595;-31.9281;0;Bottom;FUSE
+37;;THT;10.042;-43.525;0;Bottom;IN
+38;;THT;26.7588;-6.27411;-90;Bottom;OUT3
+39;;;90.306;-49.2847;0;Bottom;Hole33
+40;;;9.02595;-49.2847;0;Bottom;Hole4
+41;;;6.48595;-49.2847;0;Bottom;Hole1
+42;;;2.35086;-91.5062;90;Bottom;TXT2
+43;;;1.40595;-49.2847;0;Bottom;Hole38
+44;;;42.046;-49.2847;0;Bottom;Hole17
+45;;THT;77.559;-57.0741;-90;Bottom;OUT1
+46;;;54.746;-49.2847;0;Bottom;Hole22
+47;220;THT;11.566;-64.9481;90;Bottom;R2
+48;;;57.286;-49.2847;0;Bottom;Hole23
+49;;;2.21779;-46.1794;90;Bottom;TXT1
+50;;;75.066;-49.2847;0;Bottom;Hole30
+51;220;THT;11.566;-14.1481;90;Bottom;R3
+52;;THT;9.02595;-84.3744;0;Bottom;SW
+53;;;31.886;-97.6576;0;Bottom;TXT6
+54;;;72.526;-49.2847;0;Bottom;Hole29
+55;;;36.966;-49.2847;0;Bottom;Hole15
+56;;;62.366;-49.2847;0;Bottom;Hole25
+57;;;19.186;-34.2564;0;Bottom;TXT7
+58;;;16.646;-49.2847;0;Bottom;Hole7
+59;;;83.718;-38.3263;0;Bottom;TXT3
+60;;THT;3.94595;-82.7281;0;Bottom;FUSE
+61;;THT;77.5588;-6.27411;-90;Bottom;OUT1
+62;;;39.506;-49.2847;0;Bottom;Hole16
+63;12V;THT;51.126;-73.8381;180;Bottom;RELAY2
+64;;;63.7771;-97.7987;0;Bottom;TXT7
+65;;;52.206;-49.2847;0;Bottom;Hole20
+66;;;80.1459;-43.3581;0;Bottom;Via2
+67;12V;THT;25.7259;-23.038;180;Bottom;RELAY3
+68;;;77.606;-49.2847;0;Bottom;Hole31
+69;;;44.586;-49.2847;0;Bottom;Hole18
+70;;;85.226;-49.2847;0;Bottom;Hole36
+71;;;63.3537;-46.7165;0;Bottom;TXT7
+72;;;29.9104;-46.2932;0;Bottom;TXT6
+73;;;83.718;-89.1263;0;Bottom;TXT3
+74;;;34.426;-49.2847;0;Bottom;Hole14
+75;1.25 – 36 V;to220-adj;9.02595;-55.7406;180;Bottom;LM317
+76;;;21.726;-49.2847;0;Bottom;Hole9
+77;12V;THT;76.5259;-23.038;180;Bottom;RELAY1
+78;;;80.146;-49.2847;0;Bottom;Hole37
+79;;;78.5737;-38.1629;0;Bottom;TXT4
+80;;;2.35086;-40.7062;90;Bottom;TXT2
+81;;;87.766;-49.2847;0;Bottom;Hole34
+82;;;2.21778;-96.9794;90;Bottom;TXT1
+83;;;11.566;-49.2847;0;Bottom;Hole5
+84;;;80.146;-94.1581;0;Bottom;Via1
+85;;300 mil [THT];7.73055;-76.3781;0;Bottom;D1
+86;;THT;38.236;-90.3481;90;Bottom;DRIVER2
+87;;THT;9.02595;-33.5743;0;Bottom;SW1
+88;;;26.806;-49.2847;0;Bottom;Hole11
+89;;;14.106;-49.2847;0;Bottom;Hole6
+90;;;89.2035;-92.885;-90;Bottom;ESP
+91;;THT;66.176;-90.3481;90;Bottom;DRIVER1
